@@ -1,0 +1,26 @@
+body {
+    background-color: midnightblue
+}
+
+p {
+    color:chocolate;
+}
+
+h1 {
+    color:goldenrod;
+    background-color:darkblue;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+h3 {
+    color:goldenrod;
+}
+
+img {
+    border: 5px solid lightslategray;
+    width: 50%;
+    height: 50%;
+}
